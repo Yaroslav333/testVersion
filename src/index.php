@@ -1,5 +1,5 @@
 <?php
 
-echo 'v3.0';
+echo 'v4.0';
 
 echo 'test';
