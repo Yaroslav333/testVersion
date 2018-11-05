@@ -1,0 +1,15 @@
+{
+    "name": "yaroslav/test-version",
+    "authors": [
+        {
+            "name": "Yaroslav333",
+            "email": "yarik1848@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yaroslav333\\TestV\\": "src/"
+        }
+    }
+}
